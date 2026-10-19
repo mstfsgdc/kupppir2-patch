@@ -1,36 +1,36 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-19T17:15:14.928Z",
+  "updatedAt": "2026-10-19T19:47:10.726Z",
   "files": [
     {
       "path": "pack/root.epk",
-      "sha256": "19c4c0befe6a0a6ff58776092079804d3bf4cba72f05e93c6e2136b6a984d0b1",
-      "size": 14778752
+      "sha256": "a0d5bc77b59cad726f0b301873c0cb509fe5c1259ff616b8785d4dc031fe49e1",
+      "size": 14856704
     },
     {
       "path": "pack/root.eix",
-      "sha256": "555f85f93e24ce87d592dcb0b50530dc3450019138dfaaa2000978f04d993430",
+      "sha256": "afdd481eef0601504ccde2182311644225ce7c8a8b4f429118a3490f1413f0d0",
       "size": 3952
     },
     {
       "path": "pack/locale_tr.epk",
-      "sha256": "0150218caac03499d8d4b2b19a1ec811acf4737f81a9f35af2c0b7d715620306",
-      "size": 9064832
+      "sha256": "9ea3cf1339713a939a4168c10110fedda95fe0a24d0952a68064d4b70e21bb73",
+      "size": 9095552
     },
     {
       "path": "pack/locale_tr.eix",
-      "sha256": "504168cbe7ce92b58ce29c266627c5ad88a4b63837fe2aec1a5d665608a332ac",
-      "size": 10256
+      "sha256": "b6157fecfe6dfbd3ee26128995e74c4b121472ecb9efbab0ca0db818a05dfb52",
+      "size": 10856
     },
     {
       "path": "pack/uiscript.epk",
-      "sha256": "b341faa8edd0548bd6fe3e8ed8f469852884ff9cdd89cffaea272b87652c1580",
-      "size": 156288
+      "sha256": "9f4a362260ae8c909aa1daf1b618ab26150eb7588cbd50402689796f15ea1bd1",
+      "size": 159488
     },
     {
       "path": "pack/uiscript.eix",
-      "sha256": "dd371641f68ec07ed90a73559a003503ee0f9a60fca88a797d5243fbefc89bef",
-      "size": 5008
+      "sha256": "529ac67f98083662c3795525528b6aeaa881e009bd912deecba2c4030b858525",
+      "size": 5016
     },
     {
       "path": "Kupppir2_bin.exe",
@@ -44,7 +44,7 @@
     },
     {
       "path": "channel.inf",
-      "sha256": "faa9de6bfd18ace8cde4f4368bd9821d69f5af37c8c9b9738b2e35432bbc8b02",
+      "sha256": "b8d40bd75b3d39e965bd6bd5704d5453892ed155b447746ce4758e1f9aefda77",
       "size": 5
     }
   ]
