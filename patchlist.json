@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-19T19:47:10.726Z",
+  "updatedAt": "2026-10-19T20:29:39.978Z",
   "files": [
     {
       "path": "pack/root.epk",
@@ -34,8 +34,8 @@
     },
     {
       "path": "Kupppir2_bin.exe",
-      "sha256": "2a69176946d19a02d9cd720fc978d2e8227137eadcfdea73d218e201ee3e13a9",
-      "size": 3151872
+      "sha256": "7e15a91d4357e95f4ab2ca6ff02bfbce76fb1fe580c7db3fa06b0f0b8b6ad9bc",
+      "size": 3151360
     },
     {
       "path": "config.exe",
