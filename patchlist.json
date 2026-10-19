@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-10-19T12:08:54.296Z",
+  "files": [
+    {
+      "path": "pack/root.epk",
+      "sha256": "19c4c0befe6a0a6ff58776092079804d3bf4cba72f05e93c6e2136b6a984d0b1",
+      "size": 14778752
+    },
+    {
+      "path": "pack/root.eix",
+      "sha256": "555f85f93e24ce87d592dcb0b50530dc3450019138dfaaa2000978f04d993430",
+      "size": 3952
+    },
+    {
+      "path": "pack/locale_tr.epk",
+      "sha256": "82ae0fb2615db96df93cb5c9905eeef58631c057fd7d660d37192b9e3cb4a9db",
+      "size": 8514944
+    },
+    {
+      "path": "pack/locale_tr.eix",
+      "sha256": "1497cfbb836a6762c24329104559746205a86daa4d6e1e2bf57ba205441de2d5",
+      "size": 10256
+    },
+    {
+      "path": "pack/uiscript.epk",
+      "sha256": "b341faa8edd0548bd6fe3e8ed8f469852884ff9cdd89cffaea272b87652c1580",
+      "size": 156288
+    },
+    {
+      "path": "pack/uiscript.eix",
+      "sha256": "dd371641f68ec07ed90a73559a003503ee0f9a60fca88a797d5243fbefc89bef",
+      "size": 5008
+    },
+    {
+      "path": "Kupppir2_bin.exe",
+      "sha256": "2abd79622c5a5b46b8116db2710c5bcf9e1cc10d7a50ccad92878215b10ba71a",
+      "size": 2838528
+    },
+    {
+      "path": "config.exe",
+      "sha256": "8f92922f775ad71c4eb10976fbf2cef7aa6074f0d6c51eaa7b0182a4615a87ec",
+      "size": 258048
+    },
+    {
+      "path": "channel.inf",
+      "sha256": "faa9de6bfd18ace8cde4f4368bd9821d69f5af37c8c9b9738b2e35432bbc8b02",
+      "size": 5
+    }
+  ]
+}
