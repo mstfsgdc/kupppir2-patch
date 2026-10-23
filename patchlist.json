@@ -1,35 +1,35 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-23T19:35:19.108Z",
+  "updatedAt": "2026-10-23T19:47:18.278Z",
   "files": [
     {
       "path": "pack/root.epk",
-      "sha256": "aed1562c80b26df5ffd49db28f0c01ab6259c1d5814831edc2d3972736c032e2",
-      "size": 15931520
+      "sha256": "a30d7bbd6be7a79e81a3b5a5431890aa297ec49f1fabddad5f7a952b3d629fea",
+      "size": 16025216
     },
     {
       "path": "pack/root.eix",
-      "sha256": "1159f71bf84d7ddcaf34138a337cd604ebf82076a2853c3d3375a13bcb49c46e",
-      "size": 4000
+      "sha256": "ac0bc3fc6c75d3f4ae023681886c71c78f46d367bfe59c51d4ae02d84b705085",
+      "size": 4016
     },
     {
       "path": "pack/locale_tr.epk",
-      "sha256": "364bceb05f4d0f4774bf490c2033c0ace35aa47f468bf1c261611d72bc73a7e8",
-      "size": 12305664
+      "sha256": "fda185a9707462020cb59a0bf5bdc43e1bb72bb6f7b5ed47fc9139fe63c7e6a4",
+      "size": 12314112
     },
     {
       "path": "pack/locale_tr.eix",
-      "sha256": "a0031d4e22e7193ee5a77ff92e570ae908831c2982b5e61a0f89b00838e4dafb",
-      "size": 11096
+      "sha256": "fd4390d0d6f14f1df047c3582640013c9861a30e152e5bd454eee256d3524023",
+      "size": 11224
     },
     {
       "path": "pack/uiscript.epk",
-      "sha256": "bd2f9a1ed140cd77c2d70846870a407e16b1b4115ee23f1a931c27ba3fa65a06",
-      "size": 197504
+      "sha256": "94d598a3b0fa8ef0867ea2415425f64df0088284169481a555313c745d7601bb",
+      "size": 200832
     },
     {
       "path": "pack/uiscript.eix",
-      "sha256": "76cf9286bae9f387a321b71f52d6c79258a14b1efd77d2cff994d50b7357f9a3",
+      "sha256": "cd90ee06f1d97d90fc2b768001448b9db0ba7219e4ee29c6ca3e9216131d869d",
       "size": 5104
     },
     {
