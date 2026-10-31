@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-30T15:45:07.798Z",
+  "updatedAt": "2026-10-31T19:34:50.690Z",
   "files": [
     {
       "path": "pack/root.epk",
-      "sha256": "b4369aa0a36a61e81c5adb6a8fa67c36f5c79572cf1a2ac2c46d053bd3976287",
-      "size": 16164224
+      "sha256": "e1d98233407768164b5fd7a649dd2586c956a70ad11f72d50196f4948d540019",
+      "size": 16182656
     },
     {
       "path": "pack/root.eix",
-      "sha256": "afbc4aa4eb206a2fb43642bf96355d097bef32223b29cd69fc6495046080d10f",
+      "sha256": "496e0799c32481c82cc8a0e7a9311705c3d793fd1b49513269b295653aec535a",
       "size": 4056
     },
     {
